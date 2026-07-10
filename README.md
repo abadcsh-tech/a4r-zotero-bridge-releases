@@ -10,7 +10,7 @@ Zotero의 서지·PDF 하이라이트를 옵시디언 문헌노트로 자동 동
 2. BRAT 설정 → **Add beta plugin** 을 누르고 아래 주소를 입력합니다.
 
    ```
-   abadcsh-tech/a4r-zotero-bridge-releases
+   ai4pastor/a4r-zotero-bridge-releases
    ```
 
 3. 설치가 끝나면 설정 → 커뮤니티 플러그인에서 **A4R Zotero Bridge** 를 활성화합니다.
